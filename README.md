@@ -1,87 +1,116 @@
-# Anushka Srivastava | B.Tech CSE (AI & ML)  
-### Aspiring Software Developer • Java Enthusiast • Cybersecurity Learner
 
-Hi! I'm **Anushka Srivastava**, a second-year **Computer Science Engineering** student passionate about **Java development**, **AI/ML**, **Cybersecurity**, and building impactful tech projects.  
-I love exploring real-world challenges in **software engineering, networks, and security**.
+
+#  Anushka Srivastava  
+### B.Tech CSE (Cybersecurity) | Aspiring Cybersecurity Analyst | Java Developer
+
+Hi! I'm **Anushka Srivastava**, a B.Tech Computer Science Engineering student specializing in **Cybersecurity**.  
+I’m passionate about securing systems, understanding attacks, and building strong foundations in **networking, Java programming, and security tools**.
 
 ---
 
-##  Tech Stack
+##  About Me
+-  B.Tech CSE (Cybersecurity Specialization)  
+-  Interested in Network Security, Vulnerability Scanning, Secure Coding  
+-  Strong in Java, Python, C  
+-  Comfortable with Linux administration & log analysis  
+-  Experience with Nmap, Nessus, Lynis & Packet Tracer  
+-  Always learning new security concepts & practical skills  
+
+---
+
+##  Tech Skills
+
 ### **Programming**
-- Java • Python • C • SQL  
+- Java  
+- Python  
+- C  
+- SQL  
+
+### **Cybersecurity & Networking**
+- Nmap  
+- Nessus  
+- Lynis  
+- Footprinting  
+- Log Analysis  
+- Email Tracing  
+- Vulnerability Assessment  
+- Linux Commands  
+- Networking (RIP, Subnetting, Routing)  
 
 ### **Development**
-- HTML • CSS • JavaScript  
-- JDBC • Swing  
+- HTML, CSS, JavaScript  
+- JDBC  
+- Swing  
+- MySQL  
 - Git & GitHub  
-
-### **AI / ML**
-- Supervised ML  
-- Feature Engineering  
-- Data Preprocessing  
-
-### **Cybersecurity**
-- Kali Linux • Nmap • Nessus • Lynis  
-- Footprinting • Email Tracing  
-- Vulnerability Scanning  
-- Network Scanning  
 
 ---
 
 ##  Featured Projects
 
-###  **1. Java Employee Management System (OOP + Inheritance)**
-A complete Java application demonstrating OOP, constructors, super keyword, method overriding, and polymorphism.  
-**Tech:** Java  
-
-
-###  **2. JDBC CRUD Application (MySQL + Java Swing)**
-Insert, update, delete & view employee data using JDBC + GUI.  
-**Tech:** Java, MySQL  
-
-
-###  **3. Cybersecurity – Vulnerability Scanner**
-Automated system scanning using Python + Nmap with log analysis.  
-**Tech:** Python, Nmap  
-
-
-###  **4. Machine Learning – Fraud Detection / Spam Classifier**
-ML-based model using feature selection & classification algorithms.  
-**Tech:** Python, ML  
-
-
-###  **5. Networking Lab (Cisco Packet Tracer – RIP, Subnetting, Routing)**
-Configured routing, switches, subnets & PCs for a 3-router network.  
-
-
-###  **6. Portfolio Website (Frontend Project)**
-A simple, responsive portfolio website built using HTML, CSS, JS.  
-
+### **1. Java Employee Management System (OOP + Inheritance)**
+A complete Java project demonstrating OOP concepts like inheritance, overriding, constructors, and polymorphism.  
+**Tech:** Java
 
 ---
 
-## 📈GitHub Stats
+### **2. JDBC CRUD Application (MySQL + Swing)**
+Desktop-based CRUD operations with database connectivity using JDBC.  
+**Tech:** Java, MySQL, Swing  
+
+---
+
+### **3. Cybersecurity – Vulnerability Scanner (Python + Nmap)**
+A Python tool that uses Nmap to perform port scans, detect services, and generate security logs.  
+**Tech:** Python, Nmap  
+
+---
+
+### **4. Cybersecurity – Linux Log Analyzer**
+Analyzes auth.log, syslog, and other Linux logs to detect failed logins, suspicious IPs, and anomalies.  
+**Tech:** Python, Linux  
+
+---
+
+### **5. Networking Lab (Cisco Packet Tracer)**
+Configured routers, switches, subnetting, static & dynamic routing (RIP), packet flow validation.  
+**Tech:** Cisco Packet Tracer  
+
+---
+
+### **6. Portfolio Website**
+A simple responsive website showcasing my skills and projects.  
+**Tech:** HTML, CSS, JavaScript  
+
+---
+
+##  GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anushka1234-tech&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka1234-tech&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anushka1234-tech&show_icons=true&theme=react" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka1234-tech&layout=compact&theme=react" />
 </p>
 
 ---
 
-##  What I'm Currently Learning
-- Advanced Java (Threads, Exception Handling, File I/O, Collections)  
-- Database Connectivity (JDBC, SQL Queries)  
-- Cybersecurity Tools & Network Security  
-- Machine Learning Algorithms  
+##  Currently Learning
+- Secure Coding Practices  
+- Ethical Hacking Basics  
+- Advanced Networking  
+- Java Concurrency & File Handling  
+- Database Connectivity (JDBC)  
 
 ---
 
-##  Connect With Me  
-- **Email:** anushkasrivastava999@gmail.com 
+## 📬 Contact Me
+  
+- **Email:** anushkasrivastava999gmail.com 
 
 ---
 
- *Thanks for visiting! Feel free to explore my repositories and collaborate with me.*
+ *Thanks for visiting my profile! Feel free to explore my repositories or collaborate with me.*
+
+
 
 
 
